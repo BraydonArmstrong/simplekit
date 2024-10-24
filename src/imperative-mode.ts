@@ -23,6 +23,7 @@ export type {
 } from "./windowing-system";
 // widgets
 export * from "./widget";
+export * from "./widget/image.ts";
 // layout
 export * from "./layout";
 // settings
